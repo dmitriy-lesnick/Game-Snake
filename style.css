@@ -1,0 +1,118 @@
+button {
+    display: block;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#snake-renew,
+#snake-start {
+    width: 150px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(8, 70, 8);
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+}
+
+#snake-renew:hover,
+#snake-start:hover {
+    background-color: rgb(10, 83, 10);
+
+}
+
+.game-table {
+    border-radius: 2%;
+    background: rgb(59, 128, 196);
+    background: linear-gradient(14deg, rgba(59, 128, 196, 1) 0%, rgba(155, 180, 40, 1) 37%, rgba(0, 212, 255, 1) 100%);
+}
+
+td.game-table-cell {
+    width: 25px;
+    height: 25px;
+    /* border: 1px solid rgb(138, 138, 138);  */
+    border-radius: 50%;
+}
+
+.snake-unit {
+    background-image: url(img/snake.png);
+    background-size: 30px 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.food-unit {
+    background-image: url(img/food.gif);
+    background-size: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bonus-unit {
+    background-image: url(img/bonus.gif);
+    background-size: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bomb-unit {
+    background-image: url(img/bomb.png);
+    background-size: 28px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+}
+
+
+
+.wrap {
+    margin: 10px auto 0;
+    text-align: center;
+}
+
+.score-contain {
+    display: flex;
+}
+
+.score-wrp {
+    font-size: 30px;
+    margin: 20px 20px;
+}
+
+.score-game-over {
+    font-size: 30px;
+}
+
+.margin {
+    margin: 20px 20px;
+}
+
+.record-wrp {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.display-none {
+    display: none;
+}
+
+.author {
+    opacity: 0.9;
+    margin-left: 44%;
+}
