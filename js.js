@@ -9,7 +9,7 @@ let snake_timer; // Таймер змейки
 let food_timer; // Таймер для еды
 let score = 0; // Результат
 
-let record;
+let record = 0;
 let newRecord = document.querySelector('.record');
 
 
