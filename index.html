@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Snake</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <div id="snake-field"></div>
+        <div class="buttons">
+            <button id="snake-start" class="">Старт</button>
+            <button id="snake-renew" class="display-none">Еще раз</button>
+        </div>
+        <div class="score-contain">
+            <p class="score-wrp  display-none">Очки: <span class="score"></span></p>
+            <span class="score-game-over"></span>
+            <p class="record-wrp">Рекорд:<span class="record">0</span></p>
+        </div>
+
+        <audio class="audio-food" src="audio/food.mp3"></audio>
+        <audio class="audio-start" src="audio/start.mp3"></audio>
+        <audio class="audio-game-over" src="audio/game-over.mp3"></audio>
+        <audio class="bonus" src="audio/bonus.mp3"></audio>
+        <audio class="pick-up-bonus" src="audio/pickUpBonus.mp3"></audio>
+    </div>
+    <script src="js.js"></script>
+</body>
+
+</html>
