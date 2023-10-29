@@ -10,6 +10,6 @@ I study frontend development in various courses and platforms of the Internet.
 
 Ready for great projects with wonderful people.
 
-Webovio-HomePage https://dmitriy-lesnick.github.io/Webovio/
+Game-Snake [https://dmitriy-lesnick.github.io/Webovio/](https://dmitriy-lesnick.github.io/Game-Snake/)
 
 Portfolio dmitriy-lesnick.github.io/Portfolio/ Мокринский Дмитрий Сергеевич. Дмитрий Лесник. Фронтенд разработчик
