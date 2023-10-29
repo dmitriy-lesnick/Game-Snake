@@ -12,4 +12,4 @@ Ready for great projects with wonderful people.
 
 Game-Snake [https://dmitriy-lesnick.github.io/Webovio/](https://dmitriy-lesnick.github.io/Game-Snake/)
 
-Portfolio dmitriy-lesnick.github.io/Portfolio/ Мокринский Дмитрий Сергеевич. Дмитрий Лесник. Фронтенд разработчик
+Portfolio https://dmitriy-lesnick.github.io/Portfolio/ Мокринский Дмитрий Сергеевич. Дмитрий Лесник. Фронтенд разработчик
